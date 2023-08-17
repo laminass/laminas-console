@@ -1,5 +1,5 @@
 {
-    "name": "laminass/laminas-console",
+    "name": "laminass/laminas-consoler",
     "description": "Build console applications using getopt syntax or routing, complete with prompts",
     "license": "BSD-3-Clause",
     "keywords": [
